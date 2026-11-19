@@ -3,7 +3,7 @@ title: "마인크래프트 에듀케이션 RPG"
 description: "Minecraft Education Edition을 활용한 스토리 RPG 게임 개발. 동선 최적화 및 밸런싱을 통한 사용자 경험 개선 프로젝트."
 date: "2018-11-30"
 tags: ["Game Logic", "MakeCode", "Team Leader", "Level Design"]
-image: "/portfolio/images/thumb-minecraft-education.webp"
+image: "/images/thumb-minecraft-education.webp"
 ---
 
 ## 1. 프로젝트 개요

@@ -3,7 +3,7 @@ title: "방탈출: 시간열쇠 (Web Game)"
 description: "JavaScript(ES6)를 학습하며 1인 개발한 웹 기반 방탈출 게임."
 date: "2020-08-20"
 tags: ["JavaScript", "Web Game", "Solo Dev", "Cross-Platform"]
-image: "/portfolio/images/thumb-escape-room.webp"
+image: "/images/thumb-escape-room.webp"
 ---
 
 ## 1. 프로젝트 개요
@@ -37,8 +37,8 @@ image: "/portfolio/images/thumb-escape-room.webp"
 ---
 
 ## 5. 게임 플레이 화면
-![메인 타이틀 화면](/portfolio/images/escape-room-title.webp)
+![메인 타이틀 화면](/images/escape-room-title.webp)
 *타이틀 화면: 어두운 분위기의 UI 디자인*
 
-![퍼즐 풀이 화면](/portfolio/images/escape-room-puzzle.webp)
+![퍼즐 풀이 화면](/images/escape-room-puzzle.webp)
 *퍼즐 화면: 암호를 해독하여 상자를 여는 로직*

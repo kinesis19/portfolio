@@ -3,7 +3,7 @@ title: "이상한 세계의 비행정 (Time Attack 3D World)"
 description: "RedBrick 엔진 기반의 타임어택 레이싱 월드. 4인 팀 프로젝트의 리더로서 기획, 디자인, 개발 전 과정 주도."
 date: "2022-05-29"
 tags: ["RedBrick", "Team Project", "Leadership", "Level Design"]
-image: "/portfolio/images/thumb-airship-world.webp"
+image: "/images/thumb-airship-world.webp"
 ---
 
 ## 1. 프로젝트 개요
@@ -51,8 +51,8 @@ Team.FIS의 프로젝트 기획 PT 영상입니다.
 </div>
 
 ## 6. 스크린샷
-![비행정 전체 전경](/portfolio/images/airship-world-overview.webp)
+![비행정 전체 전경](/images/airship-world-overview.webp)
 *Team.FIS 로고가 새겨진 비행정 형태의 전체 맵*
 
-![지킴이 로봇 스노우](/portfolio/images/airship-world-snowman.webp)
+![지킴이 로봇 스노우](/images/airship-world-snowman.webp)
 *맵을 지키는 로봇 캐릭터 (스노우)*

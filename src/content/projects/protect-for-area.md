@@ -3,7 +3,7 @@ title: "프로텍트 포 에어리어 (3D 디펜스 슈팅)"
 description: "Unity 3D를 활용한 1인 개발 디펜스 게임. JSON 기반의 데이터 저장 시스템 구현 및 3D 좌표계 활용 프로젝트."
 date: "2022-01-14"
 tags: ["Unity", "C#", "3D Game", "JSON", "Solo Dev"]
-image: "/portfolio/images/thumb-protect-for-area.webp"
+image: "/images/thumb-protect-for-area.webp"
 ---
 
 ## 1. 프로젝트 개요
@@ -38,10 +38,10 @@ image: "/portfolio/images/thumb-protect-for-area.webp"
 ---
 
 ## 5. 플레이 화면
-![상점 및 업그레이드 화면](/portfolio/images/protect-for-area-shop.webp)
+![상점 및 업그레이드 화면](/images/protect-for-area-shop.webp)
 *JSON으로 데이터가 저장되는 상점 시스템*
 
-![전투 플레이 화면](/portfolio/images/protect-for-area-play.webp)
+![전투 플레이 화면](/images/protect-for-area-play.webp)
 *3D 공간에서 펼쳐지는 디펜스 전투*
 
 ## 6. 데모 영상

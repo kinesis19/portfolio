@@ -3,7 +3,7 @@ title: "마통배사대 (사이버 폭력 예방 프로젝트)"
 description: "마인크래프트 MakeCode를 활용한 건설 자동화 및 사이버 폭력 예방 콘텐츠 제작. 2019 인터넷윤리 창작콘텐츠 공모전 수상작."
 date: "2019-10-18"
 tags: ["Automation", "MakeCode", "Team Leader", "Video Production"]
-image: "/portfolio/images/thumb-minecraft-internet.webp"
+image: "/images/thumb-minecraft-internet.webp"
 ---
 
 ## 1. 프로젝트 개요

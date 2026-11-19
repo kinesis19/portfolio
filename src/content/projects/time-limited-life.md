@@ -3,7 +3,7 @@ title: "시인일생 (Web Zombie RPG)"
 description: "JavaScript(ES6)와 RedBrick 엔진을 활용한 웹 기반 2D 좀비 RPG. 턴제 전투 로직 구현 및 웹 리소스 최적화 경험."
 date: "2022-08-14"
 tags: ["JavaScript", "Web Game", "Optimization", "Game Logic", "Solo Dev"]
-image: "/portfolio/images/thumb-time-limited-life.webp"
+image: "/images/thumb-time-limited-life.webp"
 ---
 
 ## 1. 프로젝트 개요
@@ -38,10 +38,10 @@ image: "/portfolio/images/thumb-time-limited-life.webp"
 ---
 
 ## 5. 플레이 화면
-![전투 인터페이스](/portfolio/images/time-limited-life-combat.webp)
+![전투 인터페이스](/images/time-limited-life-combat.webp)
 *속성 상성(물, 불, 풀)을 활용한 턴제 전투 화면*
 
-![크레딧](/portfolio/images/time-limited-life-credit.webp)
+![크레딧](/images/time-limited-life-credit.webp)
 *크레딧 화면*
 
 

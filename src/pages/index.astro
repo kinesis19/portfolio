@@ -42,7 +42,7 @@ function formatDate(dateString: string) {
                 <div class="absolute top-0 right-0 w-64 h-64 bg-blue-500/10 blur-[100px] rounded-full pointer-events-none"></div>
             </div>
 
-            <a href="https://github.com/kinesis19" target="_blank" class="bg-neutral-900 rounded-3xl p-6 border border-neutral-800 hover:border-white/20 transition-all group cursor-pointer flex flex-col justify-between h-[180px]">
+            <a href="https://github.com/kinesis19" target="_blank" class="md:col-span-2 lg:row-span-2 bg-neutral-900 rounded-3xl p-6 border border-neutral-800 hover:border-white/20 transition-all group cursor-pointer flex flex-col justify-between h-[180px] lg:h-auto">
                 <div class="flex justify-between items-start">
                     <span class="text-neutral-500 text-sm font-mono">01</span>
                     <div class="w-8 h-8 bg-white text-black rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
@@ -52,19 +52,6 @@ function formatDate(dateString: string) {
                 <div>
                     <h3 class="text-2xl font-bold text-white">GitHub</h3>
                     <p class="text-neutral-500 text-sm">Source Codes</p>
-                </div>
-            </a>
-
-            <a href="https://blog.kashic.dev" target="_blank" class="bg-neutral-900 rounded-3xl p-6 border border-neutral-800 hover:border-blue-400/50 transition-all group cursor-pointer flex flex-col justify-between h-[180px]">
-                <div class="flex justify-between items-start">
-                    <span class="text-neutral-500 text-sm font-mono">02</span>
-                    <div class="w-8 h-8 bg-blue-500 text-white rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
-                        B
-                    </div>
-                </div>
-                <div>
-                    <h3 class="text-2xl font-bold text-white">Blog</h3>
-                    <p class="text-neutral-500 text-sm">Tech Logs</p>
                 </div>
             </a>
 
@@ -173,7 +160,7 @@ function formatDate(dateString: string) {
         <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 pb-20">
             
             {sortedProjects.map((project) => (
-                <a href={`/portfolio/projects/${project.slug}`} class="group bg-neutral-900 rounded-3xl border border-neutral-800 overflow-hidden hover:border-emerald-500/50 transition-all duration-300 hover:-translate-y-1 flex flex-col">
+                <a href={`/projects/${project.slug}`} class="group bg-neutral-900 rounded-3xl border border-neutral-800 overflow-hidden hover:border-emerald-500/50 transition-all duration-300 hover:-translate-y-1 flex flex-col">
                     
                     {/* 이미지 영역 (이미지가 있으면 표시, 없으면 패턴 표시) */}
                     <div class="aspect-video w-full bg-neutral-800 relative overflow-hidden">
