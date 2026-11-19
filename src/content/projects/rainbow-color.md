@@ -3,7 +3,7 @@ title: "Choosing Rainbow Color (3D Hyper-casual Game)"
 description: "JavaScript와 RedBrick 엔진을 활용한 3D 서바이벌 게임. setInterval 기반의 게임 루프 및 랜덤 스폰 알고리즘 구현."
 date: "2023-04-30"
 tags: ["JavaScript", "Game Logic", "Algorithm", "Solo Dev", "Award"]
-image: "/portfolio/images/thumb-rainbow-color.webp"
+image: "/images/thumb-rainbow-color.webp"
 ---
 
 ## 1. 프로젝트 개요
@@ -67,6 +67,6 @@ Choosing Rainbow Color 플레이 데모
 </a>
 
 ## 5. 수상 및 인증
-![인디 챌린저스 인증서](/portfolio/images/rainbow-color-cert.webp)
+![인디 챌린저스 인증서](/images/rainbow-color-cert.webp)
 *2023 REDBRICK INDI CHALLENGERS 인증서 (한국인디게임협회)*
 

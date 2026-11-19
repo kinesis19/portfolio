@@ -3,7 +3,7 @@ title: "이 멋진 월드의 앨리스 (Metaverse 3D World)"
 description: "RedBrick 엔진을 활용한 메타버스 월드 제작. '이상한 나라의 앨리스'를 모티브로 한 3D 레벨 디자인 및 공간 연출 프로젝트."
 date: "2022-02-24"
 tags: ["RedBrick", "Metaverse", "3D Design", "Solo Dev"]
-image: "/portfolio/images/thumb-alice-world.webp"
+image: "/images/thumb-alice-world.webp"
 ---
 
 ## 1. 프로젝트 개요
@@ -36,7 +36,7 @@ image: "/portfolio/images/thumb-alice-world.webp"
 ---
 
 ## 5. 월드 스크린샷
-![월드 전경](/portfolio/images/alice-world-overview.webp)
+![월드 전경](/images/alice-world-overview.webp)
 *다양한 테마가 어우러진 월드 전경 (얼음 구역, 숲, 공장)*
 
 ## 6. 데모 영상
